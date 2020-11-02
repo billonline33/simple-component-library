@@ -7,5 +7,7 @@ Learn more: https://hackernoon.com/creating-a-library-of-react-components-using-
 ## Installation
 
 ```
-npm install simple-component-library
+npm install simple-component-library-bill
 ```
+
+https://www.npmjs.com/package/simple-component-library-bill
